@@ -17,7 +17,7 @@
 IFS=$'\n'
 
 # Organization name
-ORG="AUS"
+ORG="ORG"
 # Content View to exclude
 EXCLUDE="Puppet"
 
